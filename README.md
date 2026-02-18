@@ -6,7 +6,10 @@
 
 Efficient hospital administration is essential for managing patient flow, prioritizing emergency cases, and maintaining structured medical records. The Chaos Hospital Management System (CHMS) is a console-based application developed in C that integrates fundamental data structures such as Linked Lists, Priority Queues, and Stacks. The system ensures emergency case prioritization through triage logic and maintains persistent storage using file handling techniques. This project demonstrates the practical implementation of structured programming and algorithmic design in modeling healthcare workflow systems.
 
+<img width="1696" height="946" alt="Screenshot_২০২৬০২১৮_১০৪৪৫৬-1" src="https://github.com/user-attachments/assets/2a7d5b5a-834b-4c8a-99f9-4b1a7e4493ac" />
 ---
+
+
 
 ## 1. Introduction
 
@@ -15,7 +18,8 @@ Hospital environments frequently experience operational challenges including ove
 The objective of this project is to design and implement a structured hospital workflow model that:
 
 - Registers patients dynamically  
-- Prioritizes emergency cases  
+- Prioritizes emergency cases 
+ 
 - Tracks treatment history  
 - Suggests appropriate medical departments  
 - Ensures persistent data storage  
